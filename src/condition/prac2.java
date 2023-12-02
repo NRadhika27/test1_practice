@@ -1,0 +1,14 @@
+package condition;
+
+public class prac2 {
+
+	public static void main(String[] args) {
+		int i=30;
+		if(i<15)
+			System.out.println("i is less than 15");
+		else
+			System.out.println("i is geater than 15");
+
+	}
+
+}
